@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snipa22/xmr-node-proxy.git"
+    "url": "git+https://github.com/agungn10116412/xmr-node-proxy.git"
   },
   "author": "Alexander Blair",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/snipa22/xmr-node-proxy/issues"
+    "url": "https://github.com/agungn10116412/xmr-node-proxy/issues"
   },
-  "homepage": "https://github.com/snipa22/xmr-node-proxy#readme",
+  "homepage": "https://github.com/agungn10116412/xmr-node-proxy#readme",
   "dependencies": {
     "async": "2.1.4",
     "bignum": "^0.12.5",
@@ -38,6 +38,7 @@
   "optionalDependencies": {
     "cryptonote-util": "git://github.com/Snipa22/node-cryptonote-util.git#xmr-Nan-2.0",
     "multi-hashing": "git://github.com/clintar/node-multi-hashing.git#Nan-2.0",
-    "cryptonight-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git#865a1f18e7dd5cf0513ae6becfdbeba3a10c9fb9"
+    "cryptonight-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git#v21.0.0"
+    "cryptoforknote-util": "git+https://github.com/MoneroOcean/node-cryptoforknote-util.git#v8.2.0",
   }
 }
